@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL](https://your-solution-url.com)
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/huddle-grid-flexbox-HytVZNSmc)
 - Live Site URL: [Live Site](https://frontend-mentor-huddle-ms.netlify.app/)
 
 ### Built with
